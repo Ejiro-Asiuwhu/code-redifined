@@ -73,4 +73,18 @@ body {
   padding-bottom: 2rem;
 }
 
+.btn {
+  text-decoration: none;
+  color: #fff;
+  background-color: #34b3a0;
+  padding: 0.7rem 1.5rem;
+  border-radius: 8px;
+  border: 1px transparent solid;
+}
+
+.btn:hover {
+  background: #299787;
+}
+
+
 
